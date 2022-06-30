@@ -1,2 +1,2 @@
-hello = 'Hello world!'
+hello = 'Hello Pontus:)'
 print(hello)
